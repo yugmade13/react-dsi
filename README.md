@@ -1,6 +1,4 @@
-# yugma.dev
-
-Filter dan Search Table React.js
+# Filter and Search Table React.js 
 
 - **Library**: [React.js](https://react.dev/)
 - **Tool**: [Vite.js](https://vite.dev/)
