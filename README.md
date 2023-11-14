@@ -6,6 +6,8 @@ Filter dan Search Table React.js
 - **Tool**: [Vite.js](https://vite.dev/)
 - **Deployment**: [Vercel](https://vercel.com)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **State Management**: [Redux Toolkit](https://redux-toolkit.js.org/)
+- **Data Fetching**: [Axios](https://axios-http.com/docs/intro)
 
 ## Running Locally
 
