@@ -13,6 +13,5 @@
 git clone hhttps://github.com/yugmade13/react-dsi.git
 cd react-dsi
 npm install
-npm run setup # Remove all of my personal information
 npm dev
 ```
